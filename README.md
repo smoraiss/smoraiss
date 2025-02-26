@@ -3,11 +3,31 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Me chamo Samuel Morais, sou técnico em informática para internet e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e inovação, buscando sempre aprender e aplicar novos conhecimentos em programação, desenvolvimento de software e soluções digitais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=smoraiss&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-smoraiss.vercel.app/api/top-langs/?username=smoraiss&show_icons=true&theme=radical&layout=compact" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=smoraiss&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=smoraiss&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=smoraiss&show_icons=true" />
+</picture>
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark&langs_count=3"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark&langs_count=3"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=smoraiss&show_icons=true" />
+</picture>
  </div>
  
  &nbsp;
